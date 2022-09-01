@@ -21,3 +21,4 @@ This script displays the deleting of my first directory
 this script displays the changing of the working directory to the previous one
 
 This script displays all the files in the current diretory and the parent of the working directory in long format
+This script prints thetype of file named iamafile
