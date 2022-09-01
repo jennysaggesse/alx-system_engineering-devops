@@ -15,3 +15,7 @@ This file displays a new directory in a temporary directory
 This file displays the file betty moved to the temporary folder of my first directory
 
 This file displays the deleting of the file betty
+
+This file displays the deleting of my first directory
+
+this file displays the changing of the working directory to the previous one
