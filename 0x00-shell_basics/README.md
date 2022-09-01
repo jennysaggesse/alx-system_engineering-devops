@@ -13,3 +13,5 @@ This file displays the current directory contents with user and group ID includi
 This file displays a new directory in a temporary directory
 
 This file displays the file betty moved to the temporary folder of my first directory
+
+This file displays the deleting of the file betty
