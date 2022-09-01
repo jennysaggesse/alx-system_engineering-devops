@@ -11,3 +11,5 @@ This file displays the current directory content including hidden files
 This file displays the current directory contents with user and group ID including hidden files in long format
 
 This file displays a new directory in a temporary directory
+
+This file displays the file betty moved to the temporary folder of my first directory
