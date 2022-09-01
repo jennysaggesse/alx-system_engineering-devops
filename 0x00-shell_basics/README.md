@@ -7,3 +7,5 @@ This file displays the change from the working directory to the user's home dire
 This file displays the current directory contents in a long format
 
 This file displays the current directory content including hidden files
+
+This file displays the current directory contents with user and group ID including hidden files in long format
