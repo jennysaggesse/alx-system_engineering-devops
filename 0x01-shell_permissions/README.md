@@ -15,3 +15,4 @@ This script print the change of owner of the file hello to school
 This script changes the owner to vincent and the group owner to staff
 This script changes the owner and group owner of the file _hello to vincent and staff
 This script changes the owner of the file hello to betty only if it is owned by the user guillaume
+This script will play the StarWars IV episode in the terminal
