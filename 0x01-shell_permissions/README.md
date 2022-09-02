@@ -11,3 +11,4 @@ This script displays the -rwxr-x-wx to the file hello
 This scriptsets the mode of the file hello same as the mode of olleh
 This script adds execution permit to all the subdirectories of the current directory of the owner and group owner including the users
 This script prints the 751 permissions given to the directory my_dir
+This script print the change of owner of the file hello to school
