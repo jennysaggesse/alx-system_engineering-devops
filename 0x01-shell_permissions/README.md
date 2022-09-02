@@ -9,3 +9,4 @@ This script displays the execution permission to everybody
 This script displays the file hello and all permissions were given to other users
 This script displays the -rwxr-x-wx to the file hello
 This scriptsets the mode of the file hello same as the mode of olleh
+This script adds execution permit to all the subdirectories of the current directory of the owner and group owner including the users
