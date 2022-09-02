@@ -15,3 +15,4 @@ This script displays the symbolic link
 This script copys .html file from current working directory to the parent the working directory but only copies files absent in the parent working directory
 This script moves files that begins with upper cas into a temporary folder
 This script deletes all the files in the current working directory that ends with ~
+This script creates the directories welcome and to with on fine school
