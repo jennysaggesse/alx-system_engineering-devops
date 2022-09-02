@@ -12,3 +12,4 @@ This script displays the changing of the working directory to the previous one
 This script displays all the files in the current diretory and the parent of the working directory in long format
 This script prints thetype of file named iamafile
 This script displays the symbolic link
+This script copys .html file from current working directory to the parent the working directory but only copies files absent in the parent working directory
