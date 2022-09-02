@@ -6,3 +6,4 @@ This script creates an empty file called hello
 This script add execution permit to the owner of the file hello
 This script displays the addition of execute permission to the owner and group and read permission to other user to the file hello
 This script displays the execution permission to everybody
+This script displays the file hello and all permissions were given to other users
