@@ -8,3 +8,4 @@ This script displays the addition of execute permission to the owner and group a
 This script displays the execution permission to everybody
 This script displays the file hello and all permissions were given to other users
 This script displays the -rwxr-x-wx to the file hello
+This scriptsets the mode of the file hello same as the mode of olleh
