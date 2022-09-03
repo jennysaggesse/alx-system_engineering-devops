@@ -16,3 +16,4 @@ This script copys .html file from current working directory to the parent the wo
 This script moves files that begins with upper cas into a temporary folder
 This script deletes all the files in the current working directory that ends with ~
 This script creates the directories welcome and to with on fine school
+This script lists all the files and directories of the current directory 
