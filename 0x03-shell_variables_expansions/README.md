@@ -9,4 +9,5 @@ This script craetes a new global variabl
 This script prints the addition of 128 with the value stored environment variable
 This script prints the result of POWER divided by DIVIDE
 This script displays the result of BREATH to the power of LOVE
-This script converts a number from base 2 to base 10 
+This script converts a number from base 2 to base 10
+This script prints all possible combinations of two letters except 'oo' 
