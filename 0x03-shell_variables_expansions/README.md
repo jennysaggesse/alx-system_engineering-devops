@@ -14,4 +14,5 @@ This script prints all possible combinations of two letters except 'oo'
 Thi scrpt prints a number with two decimal places followed by a new line
 This script converts a number from base 10 to 16
 This script encodes and decodes script by using the rot13 encryption
-This script prints every other line from the input starting with the first line 
+This script prints every other line from the input starting with the first line
+This script adds the two numbers stored in the environmental variable WATER and STIR and prints the result 
