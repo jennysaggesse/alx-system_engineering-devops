@@ -11,3 +11,4 @@ This script duplicates the last line of the file iacta
 This script deletes all the regular files with .js
 This script counts the number of directories and sub-directories in the current directory
 This script displays the 10 newest files in the current directory
+This script that takes a list of words as input and prints only words that appear exactly once
