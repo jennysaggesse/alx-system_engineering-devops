@@ -8,4 +8,4 @@ This script displays the third line of the file iacta
 This script displays the content of the file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*\*:)
 This script writes into the file ls_cwd_content
 This script duplicates the last line of the file iacta
-
+This script deletes all the regular files with .js
