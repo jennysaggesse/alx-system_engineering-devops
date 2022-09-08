@@ -20,3 +20,4 @@ This script replaces all characters A and C from input to Z and e
 This script removes all letters c and C from input
 This script reverses its input
 This script displays all users and their home directories, sorted by users
+This script write a command that finds all empty files and directories in the current directory
