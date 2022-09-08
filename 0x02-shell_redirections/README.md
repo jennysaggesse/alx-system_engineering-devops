@@ -19,3 +19,4 @@ This script displays all the trandof the etc/ssh/ssh/sshd_config
 This script replaces all characters A and C from input to Z and e
 This script removes all letters c and C from input
 This script reverses its input
+This script displays all users and their home directories, sorted by users
