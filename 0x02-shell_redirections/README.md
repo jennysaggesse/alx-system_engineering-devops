@@ -22,3 +22,4 @@ This script reverses its input
 This script displays all users and their home directories, sorted by users
 This script write a command that finds all empty files and directories in the current directory
 This script lists all the files with a .gif extension in the current directory
+This script decodes acrostics that use the first letter of each line
