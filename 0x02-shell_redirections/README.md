@@ -18,3 +18,4 @@ This script displays lines containing the pattern "root" and 3 lines after them 
 This script displays all the trandof the etc/ssh/ssh/sshd_config
 This script replaces all characters A and C from input to Z and e
 This script removes all letters c and C from input
+This script reverses its input
