@@ -16,3 +16,4 @@ This script displays the lines containing the pattern "root" from the file /etc/
 This script display the number lines that contain the pattern "bin" in the file /etc/passwd
 This script displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 This script displays all the trandof the etc/ssh/ssh/sshd_config
+This script replaces all characters A and C from input to Z and e
